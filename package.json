@@ -1,0 +1,17 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/**"
+  },
+  "author": "Brett Hartman",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
